@@ -35,7 +35,7 @@ export default (parent, text) => (sketch) => {
 
       firstWordPoints = font.textToPoints(firstWord, width * 0.01, height * 0.3, width * 0.3);
       secondWordPoints = font.textToPoints(secondWord, width * 0.01, height * 0.5, width * 0.25);
-      thirdWordPoints = font.textToPoints(thirdWord, width * 0.01, height * 0.7, width * 0.32);
+      thirdWordPoints = font.textToPoints(thirdWord, width * 0.01, height * 0.68, width * 0.20);
     }
 
     firstWordPoints.forEach((point) => {
