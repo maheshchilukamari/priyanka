@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/priyanka/static/css/main.40551326.chunk.css",
-    "main.js": "/priyanka/static/js/main.e01a67f5.chunk.js",
-    "main.js.map": "/priyanka/static/js/main.e01a67f5.chunk.js.map",
+    "main.js": "/priyanka/static/js/main.5bde2699.chunk.js",
+    "main.js.map": "/priyanka/static/js/main.5bde2699.chunk.js.map",
     "runtime-main.js": "/priyanka/static/js/runtime-main.0c67a3ee.js",
     "runtime-main.js.map": "/priyanka/static/js/runtime-main.0c67a3ee.js.map",
     "static/js/2.78186614.chunk.js": "/priyanka/static/js/2.78186614.chunk.js",
     "static/js/2.78186614.chunk.js.map": "/priyanka/static/js/2.78186614.chunk.js.map",
     "index.html": "/priyanka/index.html",
-    "precache-manifest.fc64966f26f026207945f153e80204fa.js": "/priyanka/precache-manifest.fc64966f26f026207945f153e80204fa.js",
+    "precache-manifest.cc09af9d4345bcfcd7d0f501491a5ac6.js": "/priyanka/precache-manifest.cc09af9d4345bcfcd7d0f501491a5ac6.js",
     "service-worker.js": "/priyanka/service-worker.js",
     "static/css/main.40551326.chunk.css.map": "/priyanka/static/css/main.40551326.chunk.css.map",
     "static/js/2.78186614.chunk.js.LICENSE.txt": "/priyanka/static/js/2.78186614.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.0c67a3ee.js",
     "static/js/2.78186614.chunk.js",
     "static/css/main.40551326.chunk.css",
-    "static/js/main.e01a67f5.chunk.js"
+    "static/js/main.5bde2699.chunk.js"
   ]
 }
